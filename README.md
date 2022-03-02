@@ -1,4 +1,4 @@
-本实验是北理工计卫星老师的课后实验 基于https://github.com/jiweixing/BIT-MiniCC的框架编写迷你C语言编译器，从中体会计算机编译代码的整个过程。
+本实验是北理工计卫星老师的课后实验 基于 https://github.com/jiweixing/BIT-MiniCC 的框架编写迷你C语言编译器，从中体会计算机编译代码的整个过程。
 
 本次实验环境为
 
