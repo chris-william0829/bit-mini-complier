@@ -17,7 +17,7 @@ import java.io.IOException;
 import java.io.InputStream;
 public class MyMiniCompiler {
     public static void main(String[] args)throws IOException {
-        String inputFile = "1_Fibonacci.c";
+        String inputFile = "test/nc_test/1_Fibonacci.c";
         InputStream is = System.in;
         is = new FileInputStream(inputFile);
         ANTLRInputStream input = new ANTLRInputStream(is);
