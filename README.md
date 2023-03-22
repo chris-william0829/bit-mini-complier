@@ -11,5 +11,3 @@ Antlr4.8
 (从github上下载框架打开后需要调整编码为UTF-8)
 
 详细参考博客：https://blog.csdn.net/weixin_43877853/article/details/123229579?spm=1001.2014.3001.5501
-
-#### 北理工网安学院空天网信所
